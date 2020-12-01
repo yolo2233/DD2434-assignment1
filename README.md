@@ -3,8 +3,11 @@ This repo is the implementation of Problem 7 of Assignment 1 in course DD2434.
 
 ## Dependency
 python==3.8.3
+
 numpy==1.18
+
 matplotlib==3.2.2
+
 scipy==1.5.0
 
 ## Usage
